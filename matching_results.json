@@ -1,0 +1,3291 @@
+{
+  "protocol_sha256": "26ac16bdfea94fa13bfb3eef1ef651ed97c1c4e493ae697814ed01a26e101cef",
+  "snap_archive_sha256": "125e84db872eeba443d270c70315c256b0af43a502fcfe51f50621166ad035d7",
+  "graphs_per_cohort": 48,
+  "internal_replicates_per_graph": 32,
+  "agents_per_graph": 9,
+  "audit": {
+    "assignment_against_all_permutations": 36,
+    "welfare_and_matching_against_enumerated_partitions": 24,
+    "fractional_row_degree_and_symmetry_checks": 84
+  },
+  "cohorts": {
+    "signed_triangles": {
+      "ratio": {
+        "fractional": 0.4114578839878874,
+        "integral": 0.37714165948653544,
+        "greedy_matching": 0.5212019475768188,
+        "greedy_coalition": 0.9125694420847347
+      },
+      "offline_matching_ratio": 0.6374943538523089,
+      "fractional_minus_integral": 0.03431622450135198,
+      "ci95": [
+        0.027129541628728375,
+        0.04177602691540303
+      ],
+      "fractional_prefix_rate": 0.6656901041666666,
+      "positive_edges": 13.416666666666666,
+      "graph_level": [
+        {
+          "ratios": {
+            "fractional": 0.43810096153846156,
+            "integral": 0.39302884615384615,
+            "greedy_matching": 0.5012019230769231,
+            "greedy_coalition": 0.8431490384615384
+          },
+          "offline_matching_ratio": 0.6923076923076923,
+          "fractional_prefix_rate": 0.6302083333333334,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.4361413043478261,
+            "integral": 0.41983695652173914,
+            "greedy_matching": 0.5441576086956522,
+            "greedy_coalition": 0.8857336956521739
+          },
+          "offline_matching_ratio": 0.6521739130434783,
+          "fractional_prefix_rate": 0.578125,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.45040760869565216,
+            "integral": 0.36277173913043476,
+            "greedy_matching": 0.548233695652174,
+            "greedy_coalition": 0.8415760869565218
+          },
+          "offline_matching_ratio": 0.6521739130434783,
+          "fractional_prefix_rate": 0.59375,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.37890625,
+            "integral": 0.361328125,
+            "greedy_matching": 0.533203125,
+            "greedy_coalition": 0.9196614583333333
+          },
+          "offline_matching_ratio": 0.625,
+          "fractional_prefix_rate": 0.65625,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.388671875,
+            "integral": 0.365234375,
+            "greedy_matching": 0.515625,
+            "greedy_coalition": 0.9609375
+          },
+          "offline_matching_ratio": 0.625,
+          "fractional_prefix_rate": 0.6614583333333334,
+          "positive_edges": 11
+        },
+        {
+          "ratios": {
+            "fractional": 0.4131944444444444,
+            "integral": 0.4114583333333333,
+            "greedy_matching": 0.5173611111111112,
+            "greedy_coalition": 0.9959490740740741
+          },
+          "offline_matching_ratio": 0.6666666666666666,
+          "fractional_prefix_rate": 0.6927083333333334,
+          "positive_edges": 12
+        },
+        {
+          "ratios": {
+            "fractional": 0.4396551724137931,
+            "integral": 0.3911637931034483,
+            "greedy_matching": 0.5301724137931034,
+            "greedy_coalition": 0.9321120689655172
+          },
+          "offline_matching_ratio": 0.6206896551724138,
+          "fractional_prefix_rate": 0.671875,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.421875,
+            "integral": 0.37680288461538464,
+            "greedy_matching": 0.5084134615384616,
+            "greedy_coalition": 0.8848557692307693
+          },
+          "offline_matching_ratio": 0.6346153846153846,
+          "fractional_prefix_rate": 0.6770833333333334,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.39,
+            "integral": 0.365625,
+            "greedy_matching": 0.504375,
+            "greedy_coalition": 0.88075
+          },
+          "offline_matching_ratio": 0.6,
+          "fractional_prefix_rate": 0.71875,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.41183035714285715,
+            "integral": 0.36328125,
+            "greedy_matching": 0.5022321428571429,
+            "greedy_coalition": 0.8587611607142858
+          },
+          "offline_matching_ratio": 0.5892857142857143,
+          "fractional_prefix_rate": 0.6770833333333334,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.39122596153846156,
+            "integral": 0.34435096153846156,
+            "greedy_matching": 0.5354567307692307,
+            "greedy_coalition": 0.8988581730769231
+          },
+          "offline_matching_ratio": 0.6346153846153846,
+          "fractional_prefix_rate": 0.6770833333333334,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.4017857142857143,
+            "integral": 0.3130580357142857,
+            "greedy_matching": 0.5206473214285714,
+            "greedy_coalition": 0.9935825892857143
+          },
+          "offline_matching_ratio": 0.6428571428571429,
+          "fractional_prefix_rate": 0.6770833333333334,
+          "positive_edges": 10
+        },
+        {
+          "ratios": {
+            "fractional": 0.39919354838709675,
+            "integral": 0.4097782258064516,
+            "greedy_matching": 0.5035282258064516,
+            "greedy_coalition": 0.9417842741935484
+          },
+          "offline_matching_ratio": 0.6290322580645161,
+          "fractional_prefix_rate": 0.7239583333333334,
+          "positive_edges": 12
+        },
+        {
+          "ratios": {
+            "fractional": 0.41183035714285715,
+            "integral": 0.40513392857142855,
+            "greedy_matching": 0.5524553571428571,
+            "greedy_coalition": 0.9271763392857143
+          },
+          "offline_matching_ratio": 0.6428571428571429,
+          "fractional_prefix_rate": 0.6979166666666666,
+          "positive_edges": 12
+        },
+        {
+          "ratios": {
+            "fractional": 0.3784722222222222,
+            "integral": 0.3576388888888889,
+            "greedy_matching": 0.5034722222222222,
+            "greedy_coalition": 0.9034722222222222
+          },
+          "offline_matching_ratio": 0.6666666666666666,
+          "fractional_prefix_rate": 0.5677083333333334,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.41685267857142855,
+            "integral": 0.38839285714285715,
+            "greedy_matching": 0.5239955357142857,
+            "greedy_coalition": 0.9489397321428571
+          },
+          "offline_matching_ratio": 0.5892857142857143,
+          "fractional_prefix_rate": 0.6770833333333334,
+          "positive_edges": 11
+        },
+        {
+          "ratios": {
+            "fractional": 0.414375,
+            "integral": 0.418125,
+            "greedy_matching": 0.523125,
+            "greedy_coalition": 0.8829375
+          },
+          "offline_matching_ratio": 0.6,
+          "fractional_prefix_rate": 0.6666666666666666,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.421875,
+            "integral": 0.4073275862068966,
+            "greedy_matching": 0.5237068965517241,
+            "greedy_coalition": 0.8213900862068966
+          },
+          "offline_matching_ratio": 0.6724137931034483,
+          "fractional_prefix_rate": 0.703125,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.4040948275862069,
+            "integral": 0.3863146551724138,
+            "greedy_matching": 0.5204741379310345,
+            "greedy_coalition": 0.9178340517241379
+          },
+          "offline_matching_ratio": 0.6206896551724138,
+          "fractional_prefix_rate": 0.6822916666666666,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.43157327586206895,
+            "integral": 0.4040948275862069,
+            "greedy_matching": 0.49461206896551724,
+            "greedy_coalition": 0.9189116379310345
+          },
+          "offline_matching_ratio": 0.6206896551724138,
+          "fractional_prefix_rate": 0.703125,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.41517857142857145,
+            "integral": 0.38504464285714285,
+            "greedy_matching": 0.5206473214285714,
+            "greedy_coalition": 0.9734933035714286
+          },
+          "offline_matching_ratio": 0.6428571428571429,
+          "fractional_prefix_rate": 0.6354166666666666,
+          "positive_edges": 11
+        },
+        {
+          "ratios": {
+            "fractional": 0.4369419642857143,
+            "integral": 0.3950892857142857,
+            "greedy_matching": 0.5390625,
+            "greedy_coalition": 0.8652901785714285
+          },
+          "offline_matching_ratio": 0.5892857142857143,
+          "fractional_prefix_rate": 0.78125,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.38671875,
+            "integral": 0.390625,
+            "greedy_matching": 0.533203125,
+            "greedy_coalition": 0.9202473958333334
+          },
+          "offline_matching_ratio": 0.6875,
+          "fractional_prefix_rate": 0.5729166666666666,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.4305555555555556,
+            "integral": 0.3524305555555556,
+            "greedy_matching": 0.5329861111111112,
+            "greedy_coalition": 0.8865740740740741
+          },
+          "offline_matching_ratio": 0.6111111111111112,
+          "fractional_prefix_rate": 0.6666666666666666,
+          "positive_edges": 17
+        },
+        {
+          "ratios": {
+            "fractional": 0.4252232142857143,
+            "integral": 0.41015625,
+            "greedy_matching": 0.5223214285714286,
+            "greedy_coalition": 0.8641183035714286
+          },
+          "offline_matching_ratio": 0.6428571428571429,
+          "fractional_prefix_rate": 0.71875,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.4089439655172414,
+            "integral": 0.40247844827586204,
+            "greedy_matching": 0.5107758620689655,
+            "greedy_coalition": 0.8978448275862069
+          },
+          "offline_matching_ratio": 0.6206896551724138,
+          "fractional_prefix_rate": 0.6614583333333334,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.40234375,
+            "integral": 0.37109375,
+            "greedy_matching": 0.5390625,
+            "greedy_coalition": 0.9431640625
+          },
+          "offline_matching_ratio": 0.6875,
+          "fractional_prefix_rate": 0.59375,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.40564903846153844,
+            "integral": 0.39663461538461536,
+            "greedy_matching": 0.4957932692307692,
+            "greedy_coalition": 0.8623798076923077
+          },
+          "offline_matching_ratio": 0.6923076923076923,
+          "fractional_prefix_rate": 0.5989583333333334,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.40513392857142855,
+            "integral": 0.36495535714285715,
+            "greedy_matching": 0.5122767857142857,
+            "greedy_coalition": 0.8992745535714286
+          },
+          "offline_matching_ratio": 0.6964285714285714,
+          "fractional_prefix_rate": 0.6145833333333334,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.41217672413793105,
+            "integral": 0.3459051724137931,
+            "greedy_matching": 0.49137931034482757,
+            "greedy_coalition": 0.8799030172413793
+          },
+          "offline_matching_ratio": 0.6206896551724138,
+          "fractional_prefix_rate": 0.6666666666666666,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.421875,
+            "integral": 0.340625,
+            "greedy_matching": 0.5515625,
+            "greedy_coalition": 0.97359375
+          },
+          "offline_matching_ratio": 0.65,
+          "fractional_prefix_rate": 0.6822916666666666,
+          "positive_edges": 11
+        },
+        {
+          "ratios": {
+            "fractional": 0.40372983870967744,
+            "integral": 0.36743951612903225,
+            "greedy_matching": 0.5277217741935484,
+            "greedy_coalition": 0.932258064516129
+          },
+          "offline_matching_ratio": 0.5806451612903226,
+          "fractional_prefix_rate": 0.7447916666666666,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.395625,
+            "integral": 0.3675,
+            "greedy_matching": 0.541875,
+            "greedy_coalition": 0.874625
+          },
+          "offline_matching_ratio": 0.66,
+          "fractional_prefix_rate": 0.6875,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.3802083333333333,
+            "integral": 0.3611111111111111,
+            "greedy_matching": 0.4930555555555556,
+            "greedy_coalition": 0.8502893518518518
+          },
+          "offline_matching_ratio": 0.6666666666666666,
+          "fractional_prefix_rate": 0.6302083333333334,
+          "positive_edges": 17
+        },
+        {
+          "ratios": {
+            "fractional": 0.4359375,
+            "integral": 0.35,
+            "greedy_matching": 0.5203125,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.6,
+          "fractional_prefix_rate": 0.703125,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.42578125,
+            "integral": 0.435546875,
+            "greedy_matching": 0.53125,
+            "greedy_coalition": 0.9391276041666666
+          },
+          "offline_matching_ratio": 0.6875,
+          "fractional_prefix_rate": 0.59375,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.44606854838709675,
+            "integral": 0.3553427419354839,
+            "greedy_matching": 0.49747983870967744,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.532258064516129,
+          "fractional_prefix_rate": 0.6979166666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.36691810344827586,
+            "integral": 0.32489224137931033,
+            "greedy_matching": 0.5269396551724138,
+            "greedy_coalition": 0.9066810344827586
+          },
+          "offline_matching_ratio": 0.5689655172413793,
+          "fractional_prefix_rate": 0.6822916666666666,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.41015625,
+            "integral": 0.37667410714285715,
+            "greedy_matching": 0.5055803571428571,
+            "greedy_coalition": 0.9311623086734694
+          },
+          "offline_matching_ratio": 0.6428571428571429,
+          "fractional_prefix_rate": 0.7083333333333334,
+          "positive_edges": 12
+        },
+        {
+          "ratios": {
+            "fractional": 0.4131944444444444,
+            "integral": 0.3888888888888889,
+            "greedy_matching": 0.5416666666666666,
+            "greedy_coalition": 0.8622685185185185
+          },
+          "offline_matching_ratio": 0.6666666666666666,
+          "fractional_prefix_rate": 0.6927083333333334,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.4362980769230769,
+            "integral": 0.4020432692307692,
+            "greedy_matching": 0.5066105769230769,
+            "greedy_coalition": 0.9174879807692308
+          },
+          "offline_matching_ratio": 0.6923076923076923,
+          "fractional_prefix_rate": 0.640625,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.34375,
+            "integral": 0.3125,
+            "greedy_matching": 0.5078125,
+            "greedy_coalition": 0.9674479166666666
+          },
+          "offline_matching_ratio": 0.625,
+          "fractional_prefix_rate": 0.6875,
+          "positive_edges": 11
+        },
+        {
+          "ratios": {
+            "fractional": 0.4252232142857143,
+            "integral": 0.38002232142857145,
+            "greedy_matching": 0.5189732142857143,
+            "greedy_coalition": 0.8327566964285714
+          },
+          "offline_matching_ratio": 0.6428571428571429,
+          "fractional_prefix_rate": 0.6614583333333334,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.421875,
+            "integral": 0.3326612903225806,
+            "greedy_matching": 0.5110887096774194,
+            "greedy_coalition": 0.9747983870967742
+          },
+          "offline_matching_ratio": 0.5806451612903226,
+          "fractional_prefix_rate": 0.7135416666666666,
+          "positive_edges": 10
+        },
+        {
+          "ratios": {
+            "fractional": 0.416015625,
+            "integral": 0.400390625,
+            "greedy_matching": 0.54296875,
+            "greedy_coalition": 0.8346354166666666
+          },
+          "offline_matching_ratio": 0.6875,
+          "fractional_prefix_rate": 0.5833333333333334,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.4234913793103448,
+            "integral": 0.39439655172413796,
+            "greedy_matching": 0.5269396551724138,
+            "greedy_coalition": 0.9348060344827587
+          },
+          "offline_matching_ratio": 0.6206896551724138,
+          "fractional_prefix_rate": 0.6770833333333334,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.4128605769230769,
+            "integral": 0.38221153846153844,
+            "greedy_matching": 0.5408653846153846,
+            "greedy_coalition": 0.9760216346153846
+          },
+          "offline_matching_ratio": 0.6923076923076923,
+          "fractional_prefix_rate": 0.6614583333333334,
+          "positive_edges": 11
+        },
+        {
+          "ratios": {
+            "fractional": 0.4020432692307692,
+            "integral": 0.3713942307692308,
+            "greedy_matching": 0.5210336538461539,
+            "greedy_coalition": 0.9447115384615384
+          },
+          "offline_matching_ratio": 0.6346153846153846,
+          "fractional_prefix_rate": 0.6614583333333334,
+          "positive_edges": 14
+        }
+      ]
+    },
+    "independent": {
+      "ratio": {
+        "fractional": 0.48438504316482206,
+        "integral": 0.47671340689548913,
+        "greedy_matching": 0.6285506120694809,
+        "greedy_coalition": 0.8213366821760132
+      },
+      "offline_matching_ratio": 0.8987737119187427,
+      "fractional_minus_integral": 0.007671636269332922,
+      "ci95": [
+        0.002878601363187147,
+        0.012644472422754136
+      ],
+      "fractional_prefix_rate": 0.2326388888888889,
+      "positive_edges": 18.270833333333332,
+      "graph_level": [
+        {
+          "ratios": {
+            "fractional": 0.44642857142857145,
+            "integral": 0.4575892857142857,
+            "greedy_matching": 0.6272321428571429,
+            "greedy_coalition": 0.8017113095238095
+          },
+          "offline_matching_ratio": 0.8571428571428571,
+          "fractional_prefix_rate": 0.28125,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.4670138888888889,
+            "integral": 0.4513888888888889,
+            "greedy_matching": 0.5902777777777778,
+            "greedy_coalition": 0.8087549603174603
+          },
+          "offline_matching_ratio": 0.8888888888888888,
+          "fractional_prefix_rate": 0.4010416666666667,
+          "positive_edges": 21
+        },
+        {
+          "ratios": {
+            "fractional": 0.4799107142857143,
+            "integral": 0.49330357142857145,
+            "greedy_matching": 0.6473214285714286,
+            "greedy_coalition": 0.783078231292517
+          },
+          "offline_matching_ratio": 1.0,
+          "fractional_prefix_rate": 0.09375,
+          "positive_edges": 18
+        },
+        {
+          "ratios": {
+            "fractional": 0.47879464285714285,
+            "integral": 0.42857142857142855,
+            "greedy_matching": 0.52734375,
+            "greedy_coalition": 0.8206473214285714
+          },
+          "offline_matching_ratio": 0.8571428571428571,
+          "fractional_prefix_rate": 0.3177083333333333,
+          "positive_edges": 22
+        },
+        {
+          "ratios": {
+            "fractional": 0.49588815789473684,
+            "integral": 0.49588815789473684,
+            "greedy_matching": 0.6389802631578947,
+            "greedy_coalition": 0.7555921052631579
+          },
+          "offline_matching_ratio": 0.868421052631579,
+          "fractional_prefix_rate": 0.10416666666666667,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.4815340909090909,
+            "integral": 0.4602272727272727,
+            "greedy_matching": 0.6370738636363636,
+            "greedy_coalition": 0.7535714285714286
+          },
+          "offline_matching_ratio": 0.9545454545454546,
+          "fractional_prefix_rate": 0.125,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.4646017699115044,
+            "integral": 0.4596238938053097,
+            "greedy_matching": 0.6172566371681416,
+            "greedy_coalition": 0.8025916561314791
+          },
+          "offline_matching_ratio": 0.8495575221238938,
+          "fractional_prefix_rate": 0.4270833333333333,
+          "positive_edges": 23
+        },
+        {
+          "ratios": {
+            "fractional": 0.5582386363636364,
+            "integral": 0.5454545454545454,
+            "greedy_matching": 0.6328125,
+            "greedy_coalition": 0.8783177759740259
+          },
+          "offline_matching_ratio": 0.8863636363636364,
+          "fractional_prefix_rate": 0.19791666666666666,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.47098214285714285,
+            "integral": 0.46875,
+            "greedy_matching": 0.609375,
+            "greedy_coalition": 0.8625
+          },
+          "offline_matching_ratio": 0.8571428571428571,
+          "fractional_prefix_rate": 0.10416666666666667,
+          "positive_edges": 18
+        },
+        {
+          "ratios": {
+            "fractional": 0.4635416666666667,
+            "integral": 0.4739583333333333,
+            "greedy_matching": 0.6145833333333334,
+            "greedy_coalition": 0.8466435185185185
+          },
+          "offline_matching_ratio": 0.8888888888888888,
+          "fractional_prefix_rate": 0.3125,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.474609375,
+            "integral": 0.4453125,
+            "greedy_matching": 0.5625,
+            "greedy_coalition": 0.7408017113095238
+          },
+          "offline_matching_ratio": 1.0,
+          "fractional_prefix_rate": 0.109375,
+          "positive_edges": 21
+        },
+        {
+          "ratios": {
+            "fractional": 0.5325,
+            "integral": 0.496875,
+            "greedy_matching": 0.46125,
+            "greedy_coalition": 0.7774181547619048
+          },
+          "offline_matching_ratio": 0.78,
+          "fractional_prefix_rate": 0.4583333333333333,
+          "positive_edges": 26
+        },
+        {
+          "ratios": {
+            "fractional": 0.43660714285714286,
+            "integral": 0.43392857142857144,
+            "greedy_matching": 0.7607142857142857,
+            "greedy_coalition": 0.7784821428571429
+          },
+          "offline_matching_ratio": 0.9428571428571428,
+          "fractional_prefix_rate": 0.052083333333333336,
+          "positive_edges": 12
+        },
+        {
+          "ratios": {
+            "fractional": 0.5716463414634146,
+            "integral": 0.5853658536585366,
+            "greedy_matching": 0.6722560975609756,
+            "greedy_coalition": 0.9046493902439025
+          },
+          "offline_matching_ratio": 0.9512195121951219,
+          "fractional_prefix_rate": 0.11458333333333333,
+          "positive_edges": 19
+        },
+        {
+          "ratios": {
+            "fractional": 0.4836647727272727,
+            "integral": 0.4346590909090909,
+            "greedy_matching": 0.6392045454545454,
+            "greedy_coalition": 0.8627840909090909
+          },
+          "offline_matching_ratio": 0.8181818181818182,
+          "fractional_prefix_rate": 0.359375,
+          "positive_edges": 17
+        },
+        {
+          "ratios": {
+            "fractional": 0.4474431818181818,
+            "integral": 0.43892045454545453,
+            "greedy_matching": 0.5582386363636364,
+            "greedy_coalition": 0.7835633116883117
+          },
+          "offline_matching_ratio": 0.8181818181818182,
+          "fractional_prefix_rate": 0.4270833333333333,
+          "positive_edges": 20
+        },
+        {
+          "ratios": {
+            "fractional": 0.4938118811881188,
+            "integral": 0.49195544554455445,
+            "greedy_matching": 0.7035891089108911,
+            "greedy_coalition": 0.8861386138613861
+          },
+          "offline_matching_ratio": 0.9504950495049505,
+          "fractional_prefix_rate": 0.17708333333333334,
+          "positive_edges": 21
+        },
+        {
+          "ratios": {
+            "fractional": 0.4961890243902439,
+            "integral": 0.5121951219512195,
+            "greedy_matching": 0.6585365853658537,
+            "greedy_coalition": 0.8810975609756098
+          },
+          "offline_matching_ratio": 0.9512195121951219,
+          "fractional_prefix_rate": 0.057291666666666664,
+          "positive_edges": 20
+        },
+        {
+          "ratios": {
+            "fractional": 0.4609375,
+            "integral": 0.4671875,
+            "greedy_matching": 0.621875,
+            "greedy_coalition": 0.77703125
+          },
+          "offline_matching_ratio": 0.8,
+          "fractional_prefix_rate": 0.28125,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.463125,
+            "integral": 0.451875,
+            "greedy_matching": 0.654375,
+            "greedy_coalition": 0.83575
+          },
+          "offline_matching_ratio": 0.96,
+          "fractional_prefix_rate": 0.020833333333333332,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.448125,
+            "integral": 0.451875,
+            "greedy_matching": 0.748125,
+            "greedy_coalition": 0.8675
+          },
+          "offline_matching_ratio": 0.96,
+          "fractional_prefix_rate": 0.2864583333333333,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.544921875,
+            "integral": 0.537109375,
+            "greedy_matching": 0.6640625,
+            "greedy_coalition": 0.8208767361111111
+          },
+          "offline_matching_ratio": 1.0,
+          "fractional_prefix_rate": 0.10416666666666667,
+          "positive_edges": 20
+        },
+        {
+          "ratios": {
+            "fractional": 0.4921875,
+            "integral": 0.4723557692307692,
+            "greedy_matching": 0.7013221153846154,
+            "greedy_coalition": 0.8024467719780219
+          },
+          "offline_matching_ratio": 0.9230769230769231,
+          "fractional_prefix_rate": 0.2708333333333333,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.48515625,
+            "integral": 0.47109375,
+            "greedy_matching": 0.628125,
+            "greedy_coalition": 0.8086328125
+          },
+          "offline_matching_ratio": 0.975,
+          "fractional_prefix_rate": 0.10416666666666667,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.45652173913043476,
+            "integral": 0.4544836956521739,
+            "greedy_matching": 0.5930706521739131,
+            "greedy_coalition": 0.81309200310559
+          },
+          "offline_matching_ratio": 0.9130434782608695,
+          "fractional_prefix_rate": 0.11458333333333333,
+          "positive_edges": 20
+        },
+        {
+          "ratios": {
+            "fractional": 0.4952445652173913,
+            "integral": 0.49116847826086957,
+            "greedy_matching": 0.6114130434782609,
+            "greedy_coalition": 0.7946088897515527
+          },
+          "offline_matching_ratio": 0.9130434782608695,
+          "fractional_prefix_rate": 0.3697916666666667,
+          "positive_edges": 22
+        },
+        {
+          "ratios": {
+            "fractional": 0.48046875,
+            "integral": 0.4921875,
+            "greedy_matching": 0.6474609375,
+            "greedy_coalition": 0.75888671875
+          },
+          "offline_matching_ratio": 0.9375,
+          "fractional_prefix_rate": 0.109375,
+          "positive_edges": 17
+        },
+        {
+          "ratios": {
+            "fractional": 0.47093023255813954,
+            "integral": 0.4643895348837209,
+            "greedy_matching": 0.5537790697674418,
+            "greedy_coalition": 0.854734219269103
+          },
+          "offline_matching_ratio": 0.8372093023255814,
+          "fractional_prefix_rate": 0.375,
+          "positive_edges": 20
+        },
+        {
+          "ratios": {
+            "fractional": 0.4831730769230769,
+            "integral": 0.4813701923076923,
+            "greedy_matching": 0.6075721153846154,
+            "greedy_coalition": 0.798643543956044
+          },
+          "offline_matching_ratio": 0.9230769230769231,
+          "fractional_prefix_rate": 0.10416666666666667,
+          "positive_edges": 18
+        },
+        {
+          "ratios": {
+            "fractional": 0.5030940594059405,
+            "integral": 0.4771039603960396,
+            "greedy_matching": 0.6664603960396039,
+            "greedy_coalition": 0.8613772984441301
+          },
+          "offline_matching_ratio": 0.8316831683168316,
+          "fractional_prefix_rate": 0.3385416666666667,
+          "positive_edges": 20
+        },
+        {
+          "ratios": {
+            "fractional": 0.4921875,
+            "integral": 0.4921875,
+            "greedy_matching": 0.6328125,
+            "greedy_coalition": 0.8570913461538462
+          },
+          "offline_matching_ratio": 0.9230769230769231,
+          "fractional_prefix_rate": 0.3645833333333333,
+          "positive_edges": 20
+        },
+        {
+          "ratios": {
+            "fractional": 0.49324324324324326,
+            "integral": 0.47128378378378377,
+            "greedy_matching": 0.6537162162162162,
+            "greedy_coalition": 0.8185247747747748
+          },
+          "offline_matching_ratio": 0.8648648648648649,
+          "fractional_prefix_rate": 0.3177083333333333,
+          "positive_edges": 17
+        },
+        {
+          "ratios": {
+            "fractional": 0.4453125,
+            "integral": 0.40513392857142855,
+            "greedy_matching": 0.6077008928571429,
+            "greedy_coalition": 0.8382254464285714
+          },
+          "offline_matching_ratio": 0.75,
+          "fractional_prefix_rate": 0.4635416666666667,
+          "positive_edges": 18
+        },
+        {
+          "ratios": {
+            "fractional": 0.5071428571428571,
+            "integral": 0.46964285714285714,
+            "greedy_matching": 0.5535714285714286,
+            "greedy_coalition": 0.7632993197278911
+          },
+          "offline_matching_ratio": 0.8,
+          "fractional_prefix_rate": 0.34375,
+          "positive_edges": 21
+        },
+        {
+          "ratios": {
+            "fractional": 0.45,
+            "integral": 0.474375,
+            "greedy_matching": 0.571875,
+            "greedy_coalition": 0.7799017857142857
+          },
+          "offline_matching_ratio": 0.96,
+          "fractional_prefix_rate": 0.21875,
+          "positive_edges": 17
+        },
+        {
+          "ratios": {
+            "fractional": 0.504375,
+            "integral": 0.504375,
+            "greedy_matching": 0.620625,
+            "greedy_coalition": 0.7946875
+          },
+          "offline_matching_ratio": 0.96,
+          "fractional_prefix_rate": 0.046875,
+          "positive_edges": 18
+        },
+        {
+          "ratios": {
+            "fractional": 0.4725,
+            "integral": 0.489375,
+            "greedy_matching": 0.60375,
+            "greedy_coalition": 0.8328839285714286
+          },
+          "offline_matching_ratio": 0.84,
+          "fractional_prefix_rate": 0.40625,
+          "positive_edges": 22
+        },
+        {
+          "ratios": {
+            "fractional": 0.45870535714285715,
+            "integral": 0.46707589285714285,
+            "greedy_matching": 0.5306919642857143,
+            "greedy_coalition": 0.8380420918367347
+          },
+          "offline_matching_ratio": 0.75,
+          "fractional_prefix_rate": 0.5572916666666666,
+          "positive_edges": 22
+        },
+        {
+          "ratios": {
+            "fractional": 0.5416666666666666,
+            "integral": 0.546875,
+            "greedy_matching": 0.703125,
+            "greedy_coalition": 0.8412326388888889
+          },
+          "offline_matching_ratio": 1.0,
+          "fractional_prefix_rate": 0.09895833333333333,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.45036764705882354,
+            "integral": 0.44485294117647056,
+            "greedy_matching": 0.5036764705882353,
+            "greedy_coalition": 0.7389705882352942
+          },
+          "offline_matching_ratio": 0.9411764705882353,
+          "fractional_prefix_rate": 0.14583333333333334,
+          "positive_edges": 23
+        },
+        {
+          "ratios": {
+            "fractional": 0.4361413043478261,
+            "integral": 0.43410326086956524,
+            "greedy_matching": 0.5584239130434783,
+            "greedy_coalition": 0.8689829192546584
+          },
+          "offline_matching_ratio": 0.9130434782608695,
+          "fractional_prefix_rate": 0.22916666666666666,
+          "positive_edges": 20
+        },
+        {
+          "ratios": {
+            "fractional": 0.4708806818181818,
+            "integral": 0.4559659090909091,
+            "greedy_matching": 0.6647727272727273,
+            "greedy_coalition": 0.8803977272727272
+          },
+          "offline_matching_ratio": 0.8181818181818182,
+          "fractional_prefix_rate": 0.3072916666666667,
+          "positive_edges": 18
+        },
+        {
+          "ratios": {
+            "fractional": 0.50390625,
+            "integral": 0.486328125,
+            "greedy_matching": 0.68359375,
+            "greedy_coalition": 0.876953125
+          },
+          "offline_matching_ratio": 1.0,
+          "fractional_prefix_rate": 0.10416666666666667,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.509765625,
+            "integral": 0.5185546875,
+            "greedy_matching": 0.744140625,
+            "greedy_coalition": 0.85205078125
+          },
+          "offline_matching_ratio": 0.84375,
+          "fractional_prefix_rate": 0.20833333333333334,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.4921875,
+            "integral": 0.48046875,
+            "greedy_matching": 0.61328125,
+            "greedy_coalition": 0.8107793898809523
+          },
+          "offline_matching_ratio": 0.875,
+          "fractional_prefix_rate": 0.15104166666666666,
+          "positive_edges": 17
+        },
+        {
+          "ratios": {
+            "fractional": 0.455625,
+            "integral": 0.463125,
+            "greedy_matching": 0.729375,
+            "greedy_coalition": 0.8510625
+          },
+          "offline_matching_ratio": 0.96,
+          "fractional_prefix_rate": 0.15625,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.5086436170212766,
+            "integral": 0.4767287234042553,
+            "greedy_matching": 0.6722074468085106,
+            "greedy_coalition": 0.8199468085106383
+          },
+          "offline_matching_ratio": 0.8936170212765957,
+          "fractional_prefix_rate": 0.2708333333333333,
+          "positive_edges": 17
+        },
+        {
+          "ratios": {
+            "fractional": 0.5305397727272727,
+            "integral": 0.515625,
+            "greedy_matching": 0.6669034090909091,
+            "greedy_coalition": 0.8392045454545455
+          },
+          "offline_matching_ratio": 0.9545454545454546,
+          "fractional_prefix_rate": 0.17708333333333334,
+          "positive_edges": 19
+        }
+      ]
+    },
+    "unequal_clusters": {
+      "ratio": {
+        "fractional": 0.47385425182605106,
+        "integral": 0.4608748979877681,
+        "greedy_matching": 0.6395363059021266,
+        "greedy_coalition": 0.8776717102602252
+      },
+      "offline_matching_ratio": 0.8435976804734656,
+      "fractional_minus_integral": 0.012979353838282989,
+      "ci95": [
+        0.006344886401790788,
+        0.01978517916239593
+      ],
+      "fractional_prefix_rate": 0.3436414930555556,
+      "positive_edges": 15.4375,
+      "graph_level": [
+        {
+          "ratios": {
+            "fractional": 0.4254201680672269,
+            "integral": 0.4065126050420168,
+            "greedy_matching": 0.6334033613445378,
+            "greedy_coalition": 0.8463760504201681
+          },
+          "offline_matching_ratio": 0.907563025210084,
+          "fractional_prefix_rate": 0.125,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.4375,
+            "integral": 0.41875,
+            "greedy_matching": 0.6609375,
+            "greedy_coalition": 0.8620833333333333
+          },
+          "offline_matching_ratio": 0.85,
+          "fractional_prefix_rate": 0.24479166666666666,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.5115489130434783,
+            "integral": 0.46467391304347827,
+            "greedy_matching": 0.6623641304347826,
+            "greedy_coalition": 0.8883152173913044
+          },
+          "offline_matching_ratio": 0.782608695652174,
+          "fractional_prefix_rate": 0.4322916666666667,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.45036764705882354,
+            "integral": 0.4724264705882353,
+            "greedy_matching": 0.65625,
+            "greedy_coalition": 0.8091911764705882
+          },
+          "offline_matching_ratio": 0.8823529411764706,
+          "fractional_prefix_rate": 0.10416666666666667,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.5282012195121951,
+            "integral": 0.5236280487804879,
+            "greedy_matching": 0.6814024390243902,
+            "greedy_coalition": 0.9052591463414634
+          },
+          "offline_matching_ratio": 0.8780487804878049,
+          "fractional_prefix_rate": 0.3541666666666667,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.48046875,
+            "integral": 0.49051339285714285,
+            "greedy_matching": 0.6194196428571429,
+            "greedy_coalition": 0.8751674107142857
+          },
+          "offline_matching_ratio": 0.8571428571428571,
+          "fractional_prefix_rate": 0.359375,
+          "positive_edges": 17
+        },
+        {
+          "ratios": {
+            "fractional": 0.5005296610169492,
+            "integral": 0.5005296610169492,
+            "greedy_matching": 0.6753177966101694,
+            "greedy_coalition": 0.8483580508474576
+          },
+          "offline_matching_ratio": 0.864406779661017,
+          "fractional_prefix_rate": 0.3489583333333333,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.44107142857142856,
+            "integral": 0.45714285714285713,
+            "greedy_matching": 0.6035714285714285,
+            "greedy_coalition": 0.8975595238095239
+          },
+          "offline_matching_ratio": 0.8,
+          "fractional_prefix_rate": 0.359375,
+          "positive_edges": 18
+        },
+        {
+          "ratios": {
+            "fractional": 0.5020833333333333,
+            "integral": 0.4979166666666667,
+            "greedy_matching": 0.6625,
+            "greedy_coalition": 0.8765972222222222
+          },
+          "offline_matching_ratio": 1.0,
+          "fractional_prefix_rate": 0.041666666666666664,
+          "positive_edges": 12
+        },
+        {
+          "ratios": {
+            "fractional": 0.47950819672131145,
+            "integral": 0.4702868852459016,
+            "greedy_matching": 0.617827868852459,
+            "greedy_coalition": 0.9810450819672131
+          },
+          "offline_matching_ratio": 0.7868852459016393,
+          "fractional_prefix_rate": 0.5052083333333334,
+          "positive_edges": 12
+        },
+        {
+          "ratios": {
+            "fractional": 0.441588785046729,
+            "integral": 0.43633177570093457,
+            "greedy_matching": 0.6746495327102804,
+            "greedy_coalition": 0.9343457943925234
+          },
+          "offline_matching_ratio": 0.7850467289719626,
+          "fractional_prefix_rate": 0.40625,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.42272727272727273,
+            "integral": 0.40397727272727274,
+            "greedy_matching": 0.6647727272727273,
+            "greedy_coalition": 0.8791477272727273
+          },
+          "offline_matching_ratio": 0.8181818181818182,
+          "fractional_prefix_rate": 0.4010416666666667,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.4264380530973451,
+            "integral": 0.43307522123893805,
+            "greedy_matching": 0.6388274336283186,
+            "greedy_coalition": 0.8819137168141593
+          },
+          "offline_matching_ratio": 0.7433628318584071,
+          "fractional_prefix_rate": 0.4010416666666667,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.5055555555555555,
+            "integral": 0.44722222222222224,
+            "greedy_matching": 0.6416666666666667,
+            "greedy_coalition": 0.9197222222222222
+          },
+          "offline_matching_ratio": 0.8444444444444444,
+          "fractional_prefix_rate": 0.4375,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.5017361111111112,
+            "integral": 0.4895833333333333,
+            "greedy_matching": 0.6388888888888888,
+            "greedy_coalition": 0.8780092592592592
+          },
+          "offline_matching_ratio": 0.8333333333333334,
+          "fractional_prefix_rate": 0.3125,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.4703125,
+            "integral": 0.4796875,
+            "greedy_matching": 0.6046875,
+            "greedy_coalition": 0.8908854166666667
+          },
+          "offline_matching_ratio": 0.85,
+          "fractional_prefix_rate": 0.4479166666666667,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.465,
+            "integral": 0.456,
+            "greedy_matching": 0.6345,
+            "greedy_coalition": 0.915
+          },
+          "offline_matching_ratio": 0.768,
+          "fractional_prefix_rate": 0.4322916666666667,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.3898809523809524,
+            "integral": 0.375,
+            "greedy_matching": 0.6175595238095238,
+            "greedy_coalition": 0.8886904761904761
+          },
+          "offline_matching_ratio": 0.7619047619047619,
+          "fractional_prefix_rate": 0.3697916666666667,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.4605263157894737,
+            "integral": 0.4621710526315789,
+            "greedy_matching": 0.7006578947368421,
+            "greedy_coalition": 0.9037280701754385
+          },
+          "offline_matching_ratio": 0.8421052631578947,
+          "fractional_prefix_rate": 0.3697916666666667,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.56625,
+            "integral": 0.530625,
+            "greedy_matching": 0.6675,
+            "greedy_coalition": 0.889
+          },
+          "offline_matching_ratio": 0.84,
+          "fractional_prefix_rate": 0.4375,
+          "positive_edges": 19
+        },
+        {
+          "ratios": {
+            "fractional": 0.5425531914893617,
+            "integral": 0.4886968085106383,
+            "greedy_matching": 0.6183510638297872,
+            "greedy_coalition": 0.7556231003039514
+          },
+          "offline_matching_ratio": 0.9574468085106383,
+          "fractional_prefix_rate": 0.125,
+          "positive_edges": 17
+        },
+        {
+          "ratios": {
+            "fractional": 0.4253472222222222,
+            "integral": 0.4114583333333333,
+            "greedy_matching": 0.6753472222222222,
+            "greedy_coalition": 0.8595486111111111
+          },
+          "offline_matching_ratio": 0.8888888888888888,
+          "fractional_prefix_rate": 0.046875,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.3837890625,
+            "integral": 0.38818359375,
+            "greedy_matching": 0.56396484375,
+            "greedy_coalition": 0.914208984375
+          },
+          "offline_matching_ratio": 0.703125,
+          "fractional_prefix_rate": 0.5520833333333334,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.5066964285714286,
+            "integral": 0.5044642857142857,
+            "greedy_matching": 0.6540178571428571,
+            "greedy_coalition": 0.8451636904761904
+          },
+          "offline_matching_ratio": 1.0,
+          "fractional_prefix_rate": 0.08333333333333333,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.38848920863309355,
+            "integral": 0.3925359712230216,
+            "greedy_matching": 0.5935251798561151,
+            "greedy_coalition": 0.8996852517985612
+          },
+          "offline_matching_ratio": 0.6906474820143885,
+          "fractional_prefix_rate": 0.5520833333333334,
+          "positive_edges": 18
+        },
+        {
+          "ratios": {
+            "fractional": 0.4905821917808219,
+            "integral": 0.4892979452054795,
+            "greedy_matching": 0.6074486301369864,
+            "greedy_coalition": 0.8226027397260274
+          },
+          "offline_matching_ratio": 0.7808219178082192,
+          "fractional_prefix_rate": 0.4583333333333333,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.5018382352941176,
+            "integral": 0.47058823529411764,
+            "greedy_matching": 0.6360294117647058,
+            "greedy_coalition": 0.8488357843137255
+          },
+          "offline_matching_ratio": 0.8823529411764706,
+          "fractional_prefix_rate": 0.3645833333333333,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.4182692307692308,
+            "integral": 0.41185897435897434,
+            "greedy_matching": 0.5753205128205128,
+            "greedy_coalition": 0.8358974358974359
+          },
+          "offline_matching_ratio": 0.7692307692307693,
+          "fractional_prefix_rate": 0.3177083333333333,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.474609375,
+            "integral": 0.408203125,
+            "greedy_matching": 0.63671875,
+            "greedy_coalition": 0.8884765625
+          },
+          "offline_matching_ratio": 0.875,
+          "fractional_prefix_rate": 0.3697916666666667,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.4747340425531915,
+            "integral": 0.49069148936170215,
+            "greedy_matching": 0.714095744680851,
+            "greedy_coalition": 0.8891622340425532
+          },
+          "offline_matching_ratio": 0.9574468085106383,
+          "fractional_prefix_rate": 0.13020833333333334,
+          "positive_edges": 17
+        },
+        {
+          "ratios": {
+            "fractional": 0.4480932203389831,
+            "integral": 0.486228813559322,
+            "greedy_matching": 0.6197033898305084,
+            "greedy_coalition": 0.9645127118644068
+          },
+          "offline_matching_ratio": 0.8135593220338984,
+          "fractional_prefix_rate": 0.4427083333333333,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.4892578125,
+            "integral": 0.4482421875,
+            "greedy_matching": 0.61962890625,
+            "greedy_coalition": 0.8509695870535714
+          },
+          "offline_matching_ratio": 0.84375,
+          "fractional_prefix_rate": 0.3489583333333333,
+          "positive_edges": 18
+        },
+        {
+          "ratios": {
+            "fractional": 0.4846153846153846,
+            "integral": 0.48173076923076924,
+            "greedy_matching": 0.6259615384615385,
+            "greedy_coalition": 0.8573076923076923
+          },
+          "offline_matching_ratio": 0.7846153846153846,
+          "fractional_prefix_rate": 0.4479166666666667,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.47690217391304346,
+            "integral": 0.45652173913043476,
+            "greedy_matching": 0.6073369565217391,
+            "greedy_coalition": 0.841304347826087
+          },
+          "offline_matching_ratio": 0.782608695652174,
+          "fractional_prefix_rate": 0.46875,
+          "positive_edges": 17
+        },
+        {
+          "ratios": {
+            "fractional": 0.47844827586206895,
+            "integral": 0.4849137931034483,
+            "greedy_matching": 0.6158405172413793,
+            "greedy_coalition": 0.8795797413793104
+          },
+          "offline_matching_ratio": 0.9310344827586207,
+          "fractional_prefix_rate": 0.10416666666666667,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.4109042553191489,
+            "integral": 0.38563829787234044,
+            "greedy_matching": 0.5904255319148937,
+            "greedy_coalition": 0.9043439716312057
+          },
+          "offline_matching_ratio": 0.8085106382978723,
+          "fractional_prefix_rate": 0.609375,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.6038411458333334,
+            "integral": 0.5680338541666666,
+            "greedy_matching": 0.6494140625,
+            "greedy_coalition": 0.8887261284722222
+          },
+          "offline_matching_ratio": 0.8333333333333334,
+          "fractional_prefix_rate": 0.375,
+          "positive_edges": 21
+        },
+        {
+          "ratios": {
+            "fractional": 0.49038461538461536,
+            "integral": 0.49399038461538464,
+            "greedy_matching": 0.6129807692307693,
+            "greedy_coalition": 0.9280048076923076
+          },
+          "offline_matching_ratio": 0.8653846153846154,
+          "fractional_prefix_rate": 0.4375,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.462890625,
+            "integral": 0.45703125,
+            "greedy_matching": 0.669921875,
+            "greedy_coalition": 0.9114583333333334
+          },
+          "offline_matching_ratio": 0.8125,
+          "fractional_prefix_rate": 0.14583333333333334,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.4834710743801653,
+            "integral": 0.45867768595041325,
+            "greedy_matching": 0.6399793388429752,
+            "greedy_coalition": 0.8666691263282172
+          },
+          "offline_matching_ratio": 0.7933884297520661,
+          "fractional_prefix_rate": 0.3854166666666667,
+          "positive_edges": 18
+        },
+        {
+          "ratios": {
+            "fractional": 0.4328271028037383,
+            "integral": 0.45210280373831774,
+            "greedy_matching": 0.615070093457944,
+            "greedy_coalition": 0.8941588785046729
+          },
+          "offline_matching_ratio": 0.8411214953271028,
+          "fractional_prefix_rate": 0.2916666666666667,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.49320652173913043,
+            "integral": 0.4748641304347826,
+            "greedy_matching": 0.609375,
+            "greedy_coalition": 0.8314538043478261
+          },
+          "offline_matching_ratio": 0.9782608695652174,
+          "fractional_prefix_rate": 0.16666666666666666,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.5367647058823529,
+            "integral": 0.4852941176470588,
+            "greedy_matching": 0.6323529411764706,
+            "greedy_coalition": 0.8525735294117647
+          },
+          "offline_matching_ratio": 0.8823529411764706,
+          "fractional_prefix_rate": 0.4166666666666667,
+          "positive_edges": 17
+        },
+        {
+          "ratios": {
+            "fractional": 0.45,
+            "integral": 0.4732142857142857,
+            "greedy_matching": 0.7053571428571429,
+            "greedy_coalition": 0.840297619047619
+          },
+          "offline_matching_ratio": 0.9142857142857143,
+          "fractional_prefix_rate": 0.171875,
+          "positive_edges": 17
+        },
+        {
+          "ratios": {
+            "fractional": 0.44935344827586204,
+            "integral": 0.40247844827586204,
+            "greedy_matching": 0.6433189655172413,
+            "greedy_coalition": 0.8179802955665024
+          },
+          "offline_matching_ratio": 0.8793103448275862,
+          "fractional_prefix_rate": 0.3541666666666667,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.546875,
+            "integral": 0.5208333333333334,
+            "greedy_matching": 0.6545138888888888,
+            "greedy_coalition": 0.8708333333333333
+          },
+          "offline_matching_ratio": 0.8888888888888888,
+          "fractional_prefix_rate": 0.3645833333333333,
+          "positive_edges": 17
+        },
+        {
+          "ratios": {
+            "fractional": 0.49741735537190085,
+            "integral": 0.43233471074380164,
+            "greedy_matching": 0.6647727272727273,
+            "greedy_coalition": 0.9378099173553719
+          },
+          "offline_matching_ratio": 0.8429752066115702,
+          "fractional_prefix_rate": 0.6510416666666666,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.4961283185840708,
+            "integral": 0.48783185840707965,
+            "greedy_matching": 0.6902654867256637,
+            "greedy_coalition": 0.8606589759797725
+          },
+          "offline_matching_ratio": 0.7964601769911505,
+          "fractional_prefix_rate": 0.421875,
+          "positive_edges": 16
+        }
+      ]
+    },
+    "unit_triangles": {
+      "ratio": {
+        "fractional": 0.408203125,
+        "integral": 0.3447265625,
+        "greedy_matching": 0.5,
+        "greedy_coalition": 1.0
+      },
+      "offline_matching_ratio": 0.5,
+      "fractional_minus_integral": 0.0634765625,
+      "ci95": [
+        0.05674913194444444,
+        0.07009548611111112
+      ],
+      "fractional_prefix_rate": 0.6941189236111112,
+      "positive_edges": 9,
+      "graph_level": [
+        {
+          "ratios": {
+            "fractional": 0.3645833333333333,
+            "integral": 0.3125,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.703125,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4114583333333333,
+            "integral": 0.3541666666666667,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.7135416666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.421875,
+            "integral": 0.3333333333333333,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6927083333333334,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.40625,
+            "integral": 0.3333333333333333,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6979166666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.375,
+            "integral": 0.3177083333333333,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6302083333333334,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.375,
+            "integral": 0.3541666666666667,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6927083333333334,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.3958333333333333,
+            "integral": 0.359375,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.75,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.421875,
+            "integral": 0.3541666666666667,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6875,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4479166666666667,
+            "integral": 0.3802083333333333,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6197916666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4322916666666667,
+            "integral": 0.34375,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6614583333333334,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4166666666666667,
+            "integral": 0.3333333333333333,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6927083333333334,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.3958333333333333,
+            "integral": 0.359375,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6822916666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4010416666666667,
+            "integral": 0.3385416666666667,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6979166666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.40625,
+            "integral": 0.3229166666666667,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6822916666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.40625,
+            "integral": 0.375,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.71875,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4166666666666667,
+            "integral": 0.4010416666666667,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6979166666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4010416666666667,
+            "integral": 0.34375,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.703125,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.421875,
+            "integral": 0.3489583333333333,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.7083333333333334,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4010416666666667,
+            "integral": 0.3072916666666667,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6510416666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4270833333333333,
+            "integral": 0.3854166666666667,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6822916666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4166666666666667,
+            "integral": 0.3541666666666667,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6770833333333334,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4114583333333333,
+            "integral": 0.3697916666666667,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.7291666666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4114583333333333,
+            "integral": 0.3229166666666667,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6666666666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4010416666666667,
+            "integral": 0.3489583333333333,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.7135416666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.3541666666666667,
+            "integral": 0.3385416666666667,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.7239583333333334,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4375,
+            "integral": 0.375,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.7395833333333334,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4010416666666667,
+            "integral": 0.34375,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6927083333333334,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.390625,
+            "integral": 0.3645833333333333,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.7239583333333334,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4270833333333333,
+            "integral": 0.359375,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6510416666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4114583333333333,
+            "integral": 0.3177083333333333,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6927083333333334,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4010416666666667,
+            "integral": 0.359375,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.671875,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.375,
+            "integral": 0.3229166666666667,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6770833333333334,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4322916666666667,
+            "integral": 0.3385416666666667,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.7447916666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4166666666666667,
+            "integral": 0.328125,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.7083333333333334,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.390625,
+            "integral": 0.3229166666666667,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6822916666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.390625,
+            "integral": 0.3229166666666667,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.7604166666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4114583333333333,
+            "integral": 0.3020833333333333,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.71875,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.421875,
+            "integral": 0.3854166666666667,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6458333333333334,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4114583333333333,
+            "integral": 0.3229166666666667,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6875,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4427083333333333,
+            "integral": 0.3489583333333333,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.71875,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4375,
+            "integral": 0.3385416666666667,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6979166666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4322916666666667,
+            "integral": 0.359375,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6614583333333334,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.375,
+            "integral": 0.3645833333333333,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6875,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4114583333333333,
+            "integral": 0.3333333333333333,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.7447916666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.390625,
+            "integral": 0.3177083333333333,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6666666666666666,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4114583333333333,
+            "integral": 0.3489583333333333,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6927083333333334,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.421875,
+            "integral": 0.3489583333333333,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.6458333333333334,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.4114583333333333,
+            "integral": 0.328125,
+            "greedy_matching": 0.5,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5,
+          "fractional_prefix_rate": 0.7291666666666666,
+          "positive_edges": 9
+        }
+      ]
+    },
+    "triangular_high_degree_first": {
+      "ratio": {
+        "fractional": 0.4115979467811454,
+        "integral": 0.36580402758383695,
+        "greedy_matching": 0.5481148741779959,
+        "greedy_coalition": 0.8232645984626528
+      },
+      "offline_matching_ratio": 0.6374943538523089,
+      "fractional_minus_integral": 0.04579391919730847,
+      "ci95": [
+        0.02593850672822371,
+        0.06537032058949872
+      ],
+      "fractional_prefix_rate": 0.7554253472222222,
+      "positive_edges": 13.416666666666666,
+      "graph_level": [
+        {
+          "ratios": {
+            "fractional": 0.4453125,
+            "integral": 0.48497596153846156,
+            "greedy_matching": 0.47415865384615385,
+            "greedy_coalition": 0.6545673076923076
+          },
+          "offline_matching_ratio": 0.6923076923076923,
+          "fractional_prefix_rate": 0.5677083333333334,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.44021739130434784,
+            "integral": 0.37907608695652173,
+            "greedy_matching": 0.5910326086956522,
+            "greedy_coalition": 0.7961956521739131
+          },
+          "offline_matching_ratio": 0.6521739130434783,
+          "fractional_prefix_rate": 1.0,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.5135869565217391,
+            "integral": 0.5135869565217391,
+            "greedy_matching": 0.5869565217391305,
+            "greedy_coalition": 0.5217391304347826
+          },
+          "offline_matching_ratio": 0.6521739130434783,
+          "fractional_prefix_rate": 0.5833333333333334,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.474609375,
+            "integral": 0.443359375,
+            "greedy_matching": 0.578125,
+            "greedy_coalition": 0.5565104166666667
+          },
+          "offline_matching_ratio": 0.625,
+          "fractional_prefix_rate": 0.734375,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.46484375,
+            "integral": 0.3515625,
+            "greedy_matching": 0.568359375,
+            "greedy_coalition": 0.8837890625
+          },
+          "offline_matching_ratio": 0.625,
+          "fractional_prefix_rate": 0.609375,
+          "positive_edges": 11
+        },
+        {
+          "ratios": {
+            "fractional": 0.5364583333333334,
+            "integral": 0.3993055555555556,
+            "greedy_matching": 0.6041666666666666,
+            "greedy_coalition": 0.9056712962962963
+          },
+          "offline_matching_ratio": 0.6666666666666666,
+          "fractional_prefix_rate": 0.515625,
+          "positive_edges": 12
+        },
+        {
+          "ratios": {
+            "fractional": 0.4671336206896552,
+            "integral": 0.3895474137931034,
+            "greedy_matching": 0.5414870689655172,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.6206896551724138,
+          "fractional_prefix_rate": 0.7708333333333334,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.43810096153846156,
+            "integral": 0.35336538461538464,
+            "greedy_matching": 0.5606971153846154,
+            "greedy_coalition": 0.814586195054945
+          },
+          "offline_matching_ratio": 0.6346153846153846,
+          "fractional_prefix_rate": 0.8072916666666666,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.178125,
+            "integral": 0.215625,
+            "greedy_matching": 0.6,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.6,
+          "fractional_prefix_rate": 1.0,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.4486607142857143,
+            "integral": 0.44698660714285715,
+            "greedy_matching": 0.5357142857142857,
+            "greedy_coalition": 0.7015625
+          },
+          "offline_matching_ratio": 0.5892857142857143,
+          "fractional_prefix_rate": 0.6458333333333334,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.4254807692307692,
+            "integral": 0.3425480769230769,
+            "greedy_matching": 0.4362980769230769,
+            "greedy_coalition": 0.5213684752747253
+          },
+          "offline_matching_ratio": 0.6346153846153846,
+          "fractional_prefix_rate": 0.6302083333333334,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.4486607142857143,
+            "integral": 0.34988839285714285,
+            "greedy_matching": 0.5641741071428571,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.6428571428571429,
+          "fractional_prefix_rate": 0.90625,
+          "positive_edges": 10
+        },
+        {
+          "ratios": {
+            "fractional": 0.3220766129032258,
+            "integral": 0.3538306451612903,
+            "greedy_matching": 0.5806451612903226,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.6290322580645161,
+          "fractional_prefix_rate": 1.0,
+          "positive_edges": 12
+        },
+        {
+          "ratios": {
+            "fractional": 0.36495535714285715,
+            "integral": 0.32979910714285715,
+            "greedy_matching": 0.5072544642857143,
+            "greedy_coalition": 0.900390625
+          },
+          "offline_matching_ratio": 0.6428571428571429,
+          "fractional_prefix_rate": 0.890625,
+          "positive_edges": 12
+        },
+        {
+          "ratios": {
+            "fractional": 0.390625,
+            "integral": 0.3402777777777778,
+            "greedy_matching": 0.6666666666666666,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.6666666666666666,
+          "fractional_prefix_rate": 0.765625,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.42689732142857145,
+            "integral": 0.39174107142857145,
+            "greedy_matching": 0.5892857142857143,
+            "greedy_coalition": 0.6752232142857143
+          },
+          "offline_matching_ratio": 0.5892857142857143,
+          "fractional_prefix_rate": 0.59375,
+          "positive_edges": 11
+        },
+        {
+          "ratios": {
+            "fractional": 0.46125,
+            "integral": 0.313125,
+            "greedy_matching": 0.493125,
+            "greedy_coalition": 0.656
+          },
+          "offline_matching_ratio": 0.6,
+          "fractional_prefix_rate": 0.9114583333333334,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.3798491379310345,
+            "integral": 0.19719827586206898,
+            "greedy_matching": 0.6077586206896551,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.6724137931034483,
+          "fractional_prefix_rate": 0.703125,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.41540948275862066,
+            "integral": 0.3459051724137931,
+            "greedy_matching": 0.3103448275862069,
+            "greedy_coalition": 0.6379310344827587
+          },
+          "offline_matching_ratio": 0.6206896551724138,
+          "fractional_prefix_rate": 0.6666666666666666,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.42834051724137934,
+            "integral": 0.3119612068965517,
+            "greedy_matching": 0.5382543103448276,
+            "greedy_coalition": 0.8604525862068966
+          },
+          "offline_matching_ratio": 0.6206896551724138,
+          "fractional_prefix_rate": 0.5,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.4252232142857143,
+            "integral": 0.33984375,
+            "greedy_matching": 0.5909598214285714,
+            "greedy_coalition": 0.9296875
+          },
+          "offline_matching_ratio": 0.6428571428571429,
+          "fractional_prefix_rate": 0.7083333333333334,
+          "positive_edges": 11
+        },
+        {
+          "ratios": {
+            "fractional": 0.40513392857142855,
+            "integral": 0.43526785714285715,
+            "greedy_matching": 0.43191964285714285,
+            "greedy_coalition": 0.7959821428571429
+          },
+          "offline_matching_ratio": 0.5892857142857143,
+          "fractional_prefix_rate": 0.578125,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.40625,
+            "integral": 0.41015625,
+            "greedy_matching": 0.482421875,
+            "greedy_coalition": 0.7692057291666666
+          },
+          "offline_matching_ratio": 0.6875,
+          "fractional_prefix_rate": 0.65625,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.421875,
+            "integral": 0.5208333333333334,
+            "greedy_matching": 0.5347222222222222,
+            "greedy_coalition": 0.7105324074074074
+          },
+          "offline_matching_ratio": 0.6111111111111112,
+          "fractional_prefix_rate": 0.5,
+          "positive_edges": 17
+        },
+        {
+          "ratios": {
+            "fractional": 0.48549107142857145,
+            "integral": 0.50390625,
+            "greedy_matching": 0.5591517857142857,
+            "greedy_coalition": 0.9050223214285714
+          },
+          "offline_matching_ratio": 0.6428571428571429,
+          "fractional_prefix_rate": 0.6875,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.4380387931034483,
+            "integral": 0.44127155172413796,
+            "greedy_matching": 0.5414870689655172,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.6206896551724138,
+          "fractional_prefix_rate": 0.9375,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.173828125,
+            "integral": 0.21875,
+            "greedy_matching": 0.529296875,
+            "greedy_coalition": 0.955078125
+          },
+          "offline_matching_ratio": 0.6875,
+          "fractional_prefix_rate": 0.9010416666666666,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.37319711538461536,
+            "integral": 0.3155048076923077,
+            "greedy_matching": 0.39122596153846156,
+            "greedy_coalition": 0.6897235576923076
+          },
+          "offline_matching_ratio": 0.6923076923076923,
+          "fractional_prefix_rate": 0.53125,
+          "positive_edges": 16
+        },
+        {
+          "ratios": {
+            "fractional": 0.2578125,
+            "integral": 0.28794642857142855,
+            "greedy_matching": 0.5892857142857143,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.6964285714285714,
+          "fractional_prefix_rate": 0.9427083333333334,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.4816810344827586,
+            "integral": 0.44450431034482757,
+            "greedy_matching": 0.5689655172413793,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.6206896551724138,
+          "fractional_prefix_rate": 0.8802083333333334,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.4140625,
+            "integral": 0.3109375,
+            "greedy_matching": 0.6328125,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.65,
+          "fractional_prefix_rate": 0.71875,
+          "positive_edges": 11
+        },
+        {
+          "ratios": {
+            "fractional": 0.47631048387096775,
+            "integral": 0.4884072580645161,
+            "greedy_matching": 0.5186491935483871,
+            "greedy_coalition": 0.5072004608294931
+          },
+          "offline_matching_ratio": 0.5806451612903226,
+          "fractional_prefix_rate": 0.8333333333333334,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.376875,
+            "integral": 0.33375,
+            "greedy_matching": 0.51375,
+            "greedy_coalition": 0.8275
+          },
+          "offline_matching_ratio": 0.66,
+          "fractional_prefix_rate": 0.8958333333333334,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.4861111111111111,
+            "integral": 0.4895833333333333,
+            "greedy_matching": 0.515625,
+            "greedy_coalition": 0.8657407407407407
+          },
+          "offline_matching_ratio": 0.6666666666666666,
+          "fractional_prefix_rate": 0.703125,
+          "positive_edges": 17
+        },
+        {
+          "ratios": {
+            "fractional": 0.3625,
+            "integral": 0.29375,
+            "greedy_matching": 0.6,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.6,
+          "fractional_prefix_rate": 0.828125,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.404296875,
+            "integral": 0.193359375,
+            "greedy_matching": 0.619140625,
+            "greedy_coalition": 0.8984375
+          },
+          "offline_matching_ratio": 0.6875,
+          "fractional_prefix_rate": 0.7291666666666666,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.4642137096774194,
+            "integral": 0.35836693548387094,
+            "greedy_matching": 0.532258064516129,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.532258064516129,
+          "fractional_prefix_rate": 0.875,
+          "positive_edges": 9
+        },
+        {
+          "ratios": {
+            "fractional": 0.5301724137931034,
+            "integral": 0.47198275862068967,
+            "greedy_matching": 0.5689655172413793,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5689655172413793,
+          "fractional_prefix_rate": 0.8802083333333334,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.45703125,
+            "integral": 0.32310267857142855,
+            "greedy_matching": 0.5357142857142857,
+            "greedy_coalition": 0.5071428571428571
+          },
+          "offline_matching_ratio": 0.6428571428571429,
+          "fractional_prefix_rate": 0.7864583333333334,
+          "positive_edges": 12
+        },
+        {
+          "ratios": {
+            "fractional": 0.5486111111111112,
+            "integral": 0.5225694444444444,
+            "greedy_matching": 0.5399305555555556,
+            "greedy_coalition": 0.536780753968254
+          },
+          "offline_matching_ratio": 0.6666666666666666,
+          "fractional_prefix_rate": 0.7291666666666666,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.44711538461538464,
+            "integral": 0.27403846153846156,
+            "greedy_matching": 0.6346153846153846,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.6923076923076923,
+          "fractional_prefix_rate": 0.8229166666666666,
+          "positive_edges": 14
+        },
+        {
+          "ratios": {
+            "fractional": 0.40234375,
+            "integral": 0.353515625,
+            "greedy_matching": 0.55859375,
+            "greedy_coalition": 0.88671875
+          },
+          "offline_matching_ratio": 0.625,
+          "fractional_prefix_rate": 0.5104166666666666,
+          "positive_edges": 11
+        },
+        {
+          "ratios": {
+            "fractional": 0.4419642857142857,
+            "integral": 0.32645089285714285,
+            "greedy_matching": 0.5474330357142857,
+            "greedy_coalition": 0.5061383928571429
+          },
+          "offline_matching_ratio": 0.6428571428571429,
+          "fractional_prefix_rate": 0.65625,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.19203629032258066,
+            "integral": 0.21774193548387097,
+            "greedy_matching": 0.532258064516129,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.5806451612903226,
+          "fractional_prefix_rate": 1.0,
+          "positive_edges": 10
+        },
+        {
+          "ratios": {
+            "fractional": 0.255859375,
+            "integral": 0.30078125,
+            "greedy_matching": 0.5625,
+            "greedy_coalition": 0.808203125
+          },
+          "offline_matching_ratio": 0.6875,
+          "fractional_prefix_rate": 0.71875,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.40086206896551724,
+            "integral": 0.46875,
+            "greedy_matching": 0.5317887931034483,
+            "greedy_coalition": 0.8087823275862069
+          },
+          "offline_matching_ratio": 0.6206896551724138,
+          "fractional_prefix_rate": 1.0,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.32271634615384615,
+            "integral": 0.34975961538461536,
+            "greedy_matching": 0.6923076923076923,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 0.6923076923076923,
+          "fractional_prefix_rate": 0.8333333333333334,
+          "positive_edges": 11
+        },
+        {
+          "ratios": {
+            "fractional": 0.4344951923076923,
+            "integral": 0.31009615384615385,
+            "greedy_matching": 0.5192307692307693,
+            "greedy_coalition": 0.5228365384615384
+          },
+          "offline_matching_ratio": 0.6346153846153846,
+          "fractional_prefix_rate": 0.6145833333333334,
+          "positive_edges": 14
+        }
+      ]
+    },
+    "snap_ego_topology": {
+      "ratio": {
+        "fractional": 0.4800074646436712,
+        "integral": 0.457682960824028,
+        "greedy_matching": 0.6845727996988151,
+        "greedy_coalition": 0.9501713196865996
+      },
+      "offline_matching_ratio": 0.716546943376889,
+      "fractional_minus_integral": 0.022324503819643286,
+      "ci95": [
+        0.01606387885657893,
+        0.028688713002502638
+      ],
+      "fractional_prefix_rate": 0.3969184027777778,
+      "positive_edges": 22.416666666666668,
+      "graph_level": [
+        {
+          "ratios": {
+            "fractional": 0.45,
+            "integral": 0.45,
+            "greedy_matching": 0.7,
+            "greedy_coalition": 0.9246875
+          },
+          "offline_matching_ratio": 0.8,
+          "fractional_prefix_rate": 0.390625,
+          "positive_edges": 19
+        },
+        {
+          "ratios": {
+            "fractional": 0.5,
+            "integral": 0.4715909090909091,
+            "greedy_matching": 0.7102272727272727,
+            "greedy_coalition": 0.9571428571428572
+          },
+          "offline_matching_ratio": 0.7272727272727273,
+          "fractional_prefix_rate": 0.390625,
+          "positive_edges": 22
+        },
+        {
+          "ratios": {
+            "fractional": 0.4739583333333333,
+            "integral": 0.4270833333333333,
+            "greedy_matching": 0.6510416666666666,
+            "greedy_coalition": 0.9422061011904762
+          },
+          "offline_matching_ratio": 0.6666666666666666,
+          "fractional_prefix_rate": 0.5416666666666666,
+          "positive_edges": 24
+        },
+        {
+          "ratios": {
+            "fractional": 0.5059523809523809,
+            "integral": 0.5,
+            "greedy_matching": 0.7142857142857143,
+            "greedy_coalition": 0.922108843537415
+          },
+          "offline_matching_ratio": 0.7619047619047619,
+          "fractional_prefix_rate": 0.328125,
+          "positive_edges": 21
+        },
+        {
+          "ratios": {
+            "fractional": 0.4427083333333333,
+            "integral": 0.4166666666666667,
+            "greedy_matching": 0.6614583333333334,
+            "greedy_coalition": 0.9602678571428571
+          },
+          "offline_matching_ratio": 0.6666666666666666,
+          "fractional_prefix_rate": 0.4739583333333333,
+          "positive_edges": 20
+        },
+        {
+          "ratios": {
+            "fractional": 0.4583333333333333,
+            "integral": 0.4322916666666667,
+            "greedy_matching": 0.65625,
+            "greedy_coalition": 0.9895833333333334
+          },
+          "offline_matching_ratio": 0.6666666666666666,
+          "fractional_prefix_rate": 0.5,
+          "positive_edges": 26
+        },
+        {
+          "ratios": {
+            "fractional": 0.5277777777777778,
+            "integral": 0.5277777777777778,
+            "greedy_matching": 0.8611111111111112,
+            "greedy_coalition": 0.9131944444444444
+          },
+          "offline_matching_ratio": 0.8888888888888888,
+          "fractional_prefix_rate": 0.0,
+          "positive_edges": 11
+        },
+        {
+          "ratios": {
+            "fractional": 0.47,
+            "integral": 0.43,
+            "greedy_matching": 0.625,
+            "greedy_coalition": 0.955
+          },
+          "offline_matching_ratio": 0.64,
+          "fractional_prefix_rate": 0.4791666666666667,
+          "positive_edges": 27
+        },
+        {
+          "ratios": {
+            "fractional": 0.5,
+            "integral": 0.47023809523809523,
+            "greedy_matching": 0.7023809523809523,
+            "greedy_coalition": 0.8542091836734694
+          },
+          "offline_matching_ratio": 0.7619047619047619,
+          "fractional_prefix_rate": 0.2708333333333333,
+          "positive_edges": 20
+        },
+        {
+          "ratios": {
+            "fractional": 0.4419642857142857,
+            "integral": 0.4107142857142857,
+            "greedy_matching": 0.5714285714285714,
+            "greedy_coalition": 0.916188350340136
+          },
+          "offline_matching_ratio": 0.5714285714285714,
+          "fractional_prefix_rate": 0.53125,
+          "positive_edges": 29
+        },
+        {
+          "ratios": {
+            "fractional": 0.45,
+            "integral": 0.44375,
+            "greedy_matching": 0.73125,
+            "greedy_coalition": 0.9875
+          },
+          "offline_matching_ratio": 0.8,
+          "fractional_prefix_rate": 0.3177083333333333,
+          "positive_edges": 15
+        },
+        {
+          "ratios": {
+            "fractional": 0.4476744186046512,
+            "integral": 0.4680232558139535,
+            "greedy_matching": 0.6511627906976745,
+            "greedy_coalition": 0.9788032945736435
+          },
+          "offline_matching_ratio": 0.6511627906976745,
+          "fractional_prefix_rate": 0.46875,
+          "positive_edges": 29
+        },
+        {
+          "ratios": {
+            "fractional": 0.53125,
+            "integral": 0.45625,
+            "greedy_matching": 0.7,
+            "greedy_coalition": 0.9126785714285715
+          },
+          "offline_matching_ratio": 0.8,
+          "fractional_prefix_rate": 0.3333333333333333,
+          "positive_edges": 18
+        },
+        {
+          "ratios": {
+            "fractional": 0.4880952380952381,
+            "integral": 0.4880952380952381,
+            "greedy_matching": 0.7321428571428571,
+            "greedy_coalition": 0.9223639455782313
+          },
+          "offline_matching_ratio": 0.7619047619047619,
+          "fractional_prefix_rate": 0.3333333333333333,
+          "positive_edges": 21
+        },
+        {
+          "ratios": {
+            "fractional": 0.391304347826087,
+            "integral": 0.375,
+            "greedy_matching": 0.5217391304347826,
+            "greedy_coalition": 0.9891304347826086
+          },
+          "offline_matching_ratio": 0.5217391304347826,
+          "fractional_prefix_rate": 0.5364583333333334,
+          "positive_edges": 35
+        },
+        {
+          "ratios": {
+            "fractional": 0.5052083333333334,
+            "integral": 0.4739583333333333,
+            "greedy_matching": 0.6666666666666666,
+            "greedy_coalition": 0.9479352678571429
+          },
+          "offline_matching_ratio": 0.6666666666666666,
+          "fractional_prefix_rate": 0.4583333333333333,
+          "positive_edges": 25
+        },
+        {
+          "ratios": {
+            "fractional": 0.5059523809523809,
+            "integral": 0.5,
+            "greedy_matching": 0.7440476190476191,
+            "greedy_coalition": 0.9571641156462585
+          },
+          "offline_matching_ratio": 0.7619047619047619,
+          "fractional_prefix_rate": 0.375,
+          "positive_edges": 23
+        },
+        {
+          "ratios": {
+            "fractional": 0.4895833333333333,
+            "integral": 0.46875,
+            "greedy_matching": 0.6614583333333334,
+            "greedy_coalition": 0.9166914682539683
+          },
+          "offline_matching_ratio": 0.6666666666666666,
+          "fractional_prefix_rate": 0.4947916666666667,
+          "positive_edges": 26
+        },
+        {
+          "ratios": {
+            "fractional": 0.71875,
+            "integral": 0.71875,
+            "greedy_matching": 1.0,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 1.0,
+          "fractional_prefix_rate": 0.0,
+          "positive_edges": 8
+        },
+        {
+          "ratios": {
+            "fractional": 0.40421195652173914,
+            "integral": 0.40421195652173914,
+            "greedy_matching": 0.6086956521739131,
+            "greedy_coalition": 0.9874320652173914
+          },
+          "offline_matching_ratio": 0.6086956521739131,
+          "fractional_prefix_rate": 0.5416666666666666,
+          "positive_edges": 23
+        },
+        {
+          "ratios": {
+            "fractional": 0.39204545454545453,
+            "integral": 0.3536931818181818,
+            "greedy_matching": 0.5454545454545454,
+            "greedy_coalition": 0.984375
+          },
+          "offline_matching_ratio": 0.5454545454545454,
+          "fractional_prefix_rate": 0.5,
+          "positive_edges": 34
+        },
+        {
+          "ratios": {
+            "fractional": 0.5113636363636364,
+            "integral": 0.4375,
+            "greedy_matching": 0.6931818181818182,
+            "greedy_coalition": 0.9476461038961039
+          },
+          "offline_matching_ratio": 0.7272727272727273,
+          "fractional_prefix_rate": 0.46875,
+          "positive_edges": 22
+        },
+        {
+          "ratios": {
+            "fractional": 0.4419642857142857,
+            "integral": 0.42410714285714285,
+            "greedy_matching": 0.5714285714285714,
+            "greedy_coalition": 0.9521949404761905
+          },
+          "offline_matching_ratio": 0.5714285714285714,
+          "fractional_prefix_rate": 0.5104166666666666,
+          "positive_edges": 28
+        },
+        {
+          "ratios": {
+            "fractional": 0.43,
+            "integral": 0.39,
+            "greedy_matching": 0.635,
+            "greedy_coalition": 0.99125
+          },
+          "offline_matching_ratio": 0.64,
+          "fractional_prefix_rate": 0.5052083333333334,
+          "positive_edges": 27
+        },
+        {
+          "ratios": {
+            "fractional": 0.5,
+            "integral": 0.4296875,
+            "greedy_matching": 0.75,
+            "greedy_coalition": 0.9921875
+          },
+          "offline_matching_ratio": 0.75,
+          "fractional_prefix_rate": 0.3854166666666667,
+          "positive_edges": 10
+        },
+        {
+          "ratios": {
+            "fractional": 0.453125,
+            "integral": 0.4322916666666667,
+            "greedy_matching": 0.6510416666666666,
+            "greedy_coalition": 0.8958333333333334
+          },
+          "offline_matching_ratio": 0.6666666666666666,
+          "fractional_prefix_rate": 0.4427083333333333,
+          "positive_edges": 21
+        },
+        {
+          "ratios": {
+            "fractional": 0.50625,
+            "integral": 0.51875,
+            "greedy_matching": 0.70625,
+            "greedy_coalition": 0.9362053571428571
+          },
+          "offline_matching_ratio": 0.8,
+          "fractional_prefix_rate": 0.4010416666666667,
+          "positive_edges": 20
+        },
+        {
+          "ratios": {
+            "fractional": 0.4883720930232558,
+            "integral": 0.45276162790697677,
+            "greedy_matching": 0.6460755813953488,
+            "greedy_coalition": 0.9379360465116279
+          },
+          "offline_matching_ratio": 0.6511627906976745,
+          "fractional_prefix_rate": 0.515625,
+          "positive_edges": 26
+        },
+        {
+          "ratios": {
+            "fractional": 0.4375,
+            "integral": 0.421875,
+            "greedy_matching": 0.6614583333333334,
+            "greedy_coalition": 0.9388020833333334
+          },
+          "offline_matching_ratio": 0.6666666666666666,
+          "fractional_prefix_rate": 0.453125,
+          "positive_edges": 23
+        },
+        {
+          "ratios": {
+            "fractional": 0.525,
+            "integral": 0.51875,
+            "greedy_matching": 0.725,
+            "greedy_coalition": 0.9314732142857143
+          },
+          "offline_matching_ratio": 0.8,
+          "fractional_prefix_rate": 0.4635416666666667,
+          "positive_edges": 20
+        },
+        {
+          "ratios": {
+            "fractional": 0.5496794871794872,
+            "integral": 0.5048076923076923,
+            "greedy_matching": 0.7067307692307693,
+            "greedy_coalition": 0.983573717948718
+          },
+          "offline_matching_ratio": 0.717948717948718,
+          "fractional_prefix_rate": 0.421875,
+          "positive_edges": 25
+        },
+        {
+          "ratios": {
+            "fractional": 0.4375,
+            "integral": 0.39680232558139533,
+            "greedy_matching": 0.6511627906976745,
+            "greedy_coalition": 0.9883720930232558
+          },
+          "offline_matching_ratio": 0.6511627906976745,
+          "fractional_prefix_rate": 0.5260416666666666,
+          "positive_edges": 22
+        },
+        {
+          "ratios": {
+            "fractional": 0.5476190476190477,
+            "integral": 0.5,
+            "greedy_matching": 0.7083333333333334,
+            "greedy_coalition": 0.953656462585034
+          },
+          "offline_matching_ratio": 0.7619047619047619,
+          "fractional_prefix_rate": 0.375,
+          "positive_edges": 23
+        },
+        {
+          "ratios": {
+            "fractional": 0.375,
+            "integral": 0.37926136363636365,
+            "greedy_matching": 0.5454545454545454,
+            "greedy_coalition": 0.9900568181818182
+          },
+          "offline_matching_ratio": 0.5454545454545454,
+          "fractional_prefix_rate": 0.5104166666666666,
+          "positive_edges": 34
+        },
+        {
+          "ratios": {
+            "fractional": 0.5384615384615384,
+            "integral": 0.5384615384615384,
+            "greedy_matching": 0.8653846153846154,
+            "greedy_coalition": 0.9519230769230769
+          },
+          "offline_matching_ratio": 0.9230769230769231,
+          "fractional_prefix_rate": 0.005208333333333333,
+          "positive_edges": 12
+        },
+        {
+          "ratios": {
+            "fractional": 0.49189814814814814,
+            "integral": 0.46875,
+            "greedy_matching": 0.6886574074074074,
+            "greedy_coalition": 0.9209036044973545
+          },
+          "offline_matching_ratio": 0.7407407407407407,
+          "fractional_prefix_rate": 0.4010416666666667,
+          "positive_edges": 20
+        },
+        {
+          "ratios": {
+            "fractional": 0.5416666666666666,
+            "integral": 0.5520833333333334,
+            "greedy_matching": 0.7604166666666666,
+            "greedy_coalition": 1.0
+          },
+          "offline_matching_ratio": 1.0,
+          "fractional_prefix_rate": 0.10416666666666667,
+          "positive_edges": 12
+        },
+        {
+          "ratios": {
+            "fractional": 0.4739583333333333,
+            "integral": 0.4322916666666667,
+            "greedy_matching": 0.6510416666666666,
+            "greedy_coalition": 0.9126116071428572
+          },
+          "offline_matching_ratio": 0.6666666666666666,
+          "fractional_prefix_rate": 0.4739583333333333,
+          "positive_edges": 26
+        },
+        {
+          "ratios": {
+            "fractional": 0.4340277777777778,
+            "integral": 0.4513888888888889,
+            "greedy_matching": 0.7060185185185185,
+            "greedy_coalition": 0.9326223544973545
+          },
+          "offline_matching_ratio": 0.7407407407407407,
+          "fractional_prefix_rate": 0.28125,
+          "positive_edges": 21
+        },
+        {
+          "ratios": {
+            "fractional": 0.5,
+            "integral": 0.45588235294117646,
+            "greedy_matching": 0.6985294117647058,
+            "greedy_coalition": 0.9522058823529411
+          },
+          "offline_matching_ratio": 0.7058823529411765,
+          "fractional_prefix_rate": 0.3854166666666667,
+          "positive_edges": 13
+        },
+        {
+          "ratios": {
+            "fractional": 0.41517857142857145,
+            "integral": 0.39285714285714285,
+            "greedy_matching": 0.5714285714285714,
+            "greedy_coalition": 0.9970238095238095
+          },
+          "offline_matching_ratio": 0.5714285714285714,
+          "fractional_prefix_rate": 0.515625,
+          "positive_edges": 31
+        },
+        {
+          "ratios": {
+            "fractional": 0.4880952380952381,
+            "integral": 0.44642857142857145,
+            "greedy_matching": 0.7083333333333334,
+            "greedy_coalition": 0.9469387755102041
+          },
+          "offline_matching_ratio": 0.7619047619047619,
+          "fractional_prefix_rate": 0.4583333333333333,
+          "positive_edges": 20
+        },
+        {
+          "ratios": {
+            "fractional": 0.46875,
+            "integral": 0.45454545454545453,
+            "greedy_matching": 0.78125,
+            "greedy_coalition": 0.9399857954545454
+          },
+          "offline_matching_ratio": 0.9090909090909091,
+          "fractional_prefix_rate": 0.078125,
+          "positive_edges": 17
+        },
+        {
+          "ratios": {
+            "fractional": 0.42410714285714285,
+            "integral": 0.41964285714285715,
+            "greedy_matching": 0.5714285714285714,
+            "greedy_coalition": 0.9910714285714286
+          },
+          "offline_matching_ratio": 0.5714285714285714,
+          "fractional_prefix_rate": 0.5104166666666666,
+          "positive_edges": 32
+        },
+        {
+          "ratios": {
+            "fractional": 0.47023809523809523,
+            "integral": 0.4523809523809524,
+            "greedy_matching": 0.7142857142857143,
+            "greedy_coalition": 0.9651360544217688
+          },
+          "offline_matching_ratio": 0.7619047619047619,
+          "fractional_prefix_rate": 0.40625,
+          "positive_edges": 23
+        },
+        {
+          "ratios": {
+            "fractional": 0.5208333333333334,
+            "integral": 0.4861111111111111,
+            "greedy_matching": 0.7291666666666666,
+            "greedy_coalition": 0.9103009259259259
+          },
+          "offline_matching_ratio": 0.7407407407407407,
+          "fractional_prefix_rate": 0.3385416666666667,
+          "positive_edges": 23
+        },
+        {
+          "ratios": {
+            "fractional": 0.5375,
+            "integral": 0.50625,
+            "greedy_matching": 0.73125,
+            "greedy_coalition": 0.9034821428571429
+          },
+          "offline_matching_ratio": 0.8,
+          "fractional_prefix_rate": 0.3385416666666667,
+          "positive_edges": 20
+        },
+        {
+          "ratios": {
+            "fractional": 0.4375,
+            "integral": 0.4182692307692308,
+            "greedy_matching": 0.6153846153846154,
+            "greedy_coalition": 0.9261675824175825
+          },
+          "offline_matching_ratio": 0.6153846153846154,
+          "fractional_prefix_rate": 0.5104166666666666,
+          "positive_edges": 29
+        }
+      ]
+    }
+  },
+  "primary_gate_passed": true
+}
