@@ -1,6 +1,6 @@
 # Online Coalition Formation
 
-Implementation and evaluation of the random-arrival fractional prefix-matching algorithm studied by Bullinger, Romen and Schlenga. The comparison includes integral matching, immediate greedy matching, larger coalitions and exact offline reference solutions.
+I implemented and evaluated the random-arrival fractional prefix-matching algorithm studied by Bullinger, Romen and Schlenga. The comparison includes integral matching, immediate greedy matching, larger coalitions and exact offline reference solutions.
 
 [Report](MATCHING_REPORT.md) · [Protocol](MATCHING_PROTOCOL.md) · [Results](matching_results.json)
 
