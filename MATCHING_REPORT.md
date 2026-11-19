@@ -31,4 +31,4 @@ python3 online_matching.py --snap /tmp/facebook_combined.txt.gz --verify matchin
 
 Python 3.10+ standard library. The archive argument enables the external topology cohort. The full version has replayed byte for byte. Intervals resample whole graphs, with all 32 simulated arrival orders grouped by graph.
 
-The comparison isolates the fractional relaxation. The practical heuristic remains stronger on these small families. A useful next question for Bullinger is whether adapting pair versus larger-group choice can preserve a worst-case guarantee. This study tests aggregate fractional welfare. The [earlier stability work](../../coalition-stability/HARDENED_REPORT.md) uses different utilities and an incentive-based goal.
+The comparison isolates the fractional relaxation. The practical heuristic remains stronger on these small families. A useful next question for Bullinger is whether adapting pair versus larger-group choice can preserve a worst-case guarantee. This study tests aggregate fractional welfare. The earlier stability work uses different utilities and an incentive-based goal.
